@@ -1,9 +1,9 @@
 /**
  * 2DMeshGenerator
  */
-public class 2DMeshGenerator {
+public class MeshGenerator2D {
 
     public static void main(String[] args) {
-        Sys
+        System.out.println("meow");
     }
 }
